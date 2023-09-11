@@ -1,6 +1,6 @@
 Programm to calculate infix notation expressions
 
-https://github.com/shapovalenkoes/s21_C/assets/84599844/660be367-bd61-4089-af49-1469495e0123
+https://github.com/shapovalenkoes/s21_C/assets/84599844/e314710c-6e81-4367-9540-bca6fa93af12
 
 Supports:
 
